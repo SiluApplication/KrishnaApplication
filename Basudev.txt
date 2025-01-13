@@ -1,3 +1,8 @@
 class Devotees{
 int id =101;
 }
+
+
+Who is Krishna?
+Krishna is the eighth avatar of Vishnu, the Hindu god, and is also worshiped as the supreme god. He is the god of love, compassion,
+and protection.
